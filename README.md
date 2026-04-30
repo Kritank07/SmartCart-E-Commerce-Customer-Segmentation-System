@@ -73,9 +73,7 @@ Key features used in the analysis:
 |---|---|---|
 | **C0** | Moderate income, family-oriented, partners | Offer **family discounts & bundle deals** |
 | **C1** | High income, low children, moderate response | Build **loyalty programs & premium perks** |
-| **C2** | Lower income, solo, high web visits | 📱 Target with **digital ads & flash sales** |
+| **C2** | Lower income, solo, high web visits | Target with **digital ads & flash sales** |
 | **C3** | Highest income, older, best response, max store & catalog purchases | **Golden cluster** – focus for premium services & highest ROI |
 
 > Clusters 1 and 3 are premium customers. Clusters 0 and 2 are budget-conscious segments.
-
-## Project Structure
